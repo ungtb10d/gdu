@@ -160,6 +160,9 @@ func (a *ParallelAnalyzer) processDir(path string) *Dir {
 		ItemCount:       len(files),
 		TotalSize:       totalSize,
 	}
+
+	//storage.StoreDir(dir)
+
 	return dir
 }
 

@@ -1,0 +1,20 @@
+syntax = "proto3";
+package storage;
+
+import "google/protobuf/timestamp.proto";
+option go_package = "pkg/storage/itempb";
+
+message Item {
+    string path = 1;
+    int64 size = 2;
+    int64 usage = 3;
+    int64 mli = 5;
+    string flag = 6;
+    google.protobuf.Timestamp mtime = 7;
+}
+
+message Dir {
+    Item item = 1;
+    int32 item_count = 2;
+    repeated string subitems = 3;
+}
