@@ -1,6 +1,6 @@
 package common
 
-import "github.com/dundee/gdu/v5/pkg/fs"
+import "github.com/ungtb10d/gdu/v5/pkg/fs"
 
 // CurrentProgress struct
 type CurrentProgress struct {

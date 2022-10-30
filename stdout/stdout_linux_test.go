@@ -9,7 +9,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/dundee/gdu/v5/pkg/device"
+	"github.com/ungtb10d/gdu/v5/pkg/device"
 	"github.com/stretchr/testify/assert"
 )
 

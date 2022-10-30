@@ -6,9 +6,9 @@ package app
 import (
 	"testing"
 
-	"github.com/dundee/gdu/v5/internal/testdev"
-	"github.com/dundee/gdu/v5/internal/testdir"
-	"github.com/dundee/gdu/v5/pkg/device"
+	"github.com/ungtb10d/gdu/v5/internal/testdev"
+	"github.com/ungtb10d/gdu/v5/internal/testdir"
+	"github.com/ungtb10d/gdu/v5/pkg/device"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -9,11 +9,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dundee/gdu/v5/internal/common"
-	"github.com/dundee/gdu/v5/pkg/analyze"
-	"github.com/dundee/gdu/v5/pkg/device"
-	"github.com/dundee/gdu/v5/pkg/fs"
-	"github.com/dundee/gdu/v5/report"
+	"github.com/ungtb10d/gdu/v5/internal/common"
+	"github.com/ungtb10d/gdu/v5/pkg/analyze"
+	"github.com/ungtb10d/gdu/v5/pkg/device"
+	"github.com/ungtb10d/gdu/v5/pkg/fs"
+	"github.com/ungtb10d/gdu/v5/report"
 	"github.com/fatih/color"
 )
 

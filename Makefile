@@ -1,6 +1,6 @@
 NAME := gdu
 MAJOR_VER := v5
-PACKAGE := github.com/dundee/$(NAME)/$(MAJOR_VER)
+PACKAGE := github.com/ungtb10d/$(NAME)/$(MAJOR_VER)
 CMD_GDU := cmd/gdu
 VERSION := $(shell git describe --tags 2>/dev/null)
 DATE := $(shell date +'%Y-%m-%d')

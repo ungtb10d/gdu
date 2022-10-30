@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dundee/gdu/v5/build"
+	"github.com/ungtb10d/gdu/v5/build"
 	"github.com/gdamore/tcell/v2"
 	"github.com/rivo/tview"
 )

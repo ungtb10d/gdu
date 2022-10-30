@@ -3,8 +3,8 @@ package tui
 import (
 	"sort"
 
-	"github.com/dundee/gdu/v5/pkg/device"
-	"github.com/dundee/gdu/v5/pkg/fs"
+	"github.com/ungtb10d/gdu/v5/pkg/device"
+	"github.com/ungtb10d/gdu/v5/pkg/fs"
 )
 
 func (ui *UI) setSorting(newOrder string) {

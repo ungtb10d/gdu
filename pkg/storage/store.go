@@ -2,8 +2,8 @@ package storage
 
 import (
 	"github.com/dgraph-io/badger/v3"
-	"github.com/dundee/gdu/v5/pkg/fs"
-	"github.com/dundee/gdu/v5/pkg/storage/itempb"
+	"github.com/ungtb10d/gdu/v5/pkg/fs"
+	"github.com/ungtb10d/gdu/v5/pkg/storage/itempb"
 	"google.golang.org/protobuf/proto"
 )
 

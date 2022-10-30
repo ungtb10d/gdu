@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dundee/gdu/v5/pkg/analyze"
+	"github.com/ungtb10d/gdu/v5/pkg/analyze"
 )
 
 // ReadAnalysis reads analysis report from JSON file and returns directory item

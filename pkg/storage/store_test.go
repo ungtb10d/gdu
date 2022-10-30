@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/dundee/gdu/v5/pkg/storage/itempb"
+	"github.com/ungtb10d/gdu/v5/pkg/storage/itempb"
 	"google.golang.org/protobuf/proto"
 )
 

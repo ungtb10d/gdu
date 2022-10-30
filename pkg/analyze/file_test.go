@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dundee/gdu/v5/internal/testdir"
-	"github.com/dundee/gdu/v5/pkg/fs"
+	"github.com/ungtb10d/gdu/v5/internal/testdir"
+	"github.com/ungtb10d/gdu/v5/pkg/fs"
 	"github.com/stretchr/testify/assert"
 )
 

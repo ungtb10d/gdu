@@ -1,7 +1,7 @@
 package tui
 
 import (
-	"github.com/dundee/gdu/v5/pkg/device"
+	"github.com/ungtb10d/gdu/v5/pkg/device"
 )
 
 func getDeviceUsagePart(item *device.Device) string {
