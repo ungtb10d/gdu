@@ -5,7 +5,6 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/ungtb10d/gdu/v5/internal/common"
 	"github.com/ungtb10d/gdu/v5/pkg/analyze"
 	"github.com/ungtb10d/gdu/v5/pkg/device"
 	"github.com/ungtb10d/gdu/v5/pkg/fs"

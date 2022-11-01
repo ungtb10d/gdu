@@ -3,7 +3,6 @@ package tui
 import (
 	"fmt"
 
-	"github.com/ungtb10d/gdu/v5/internal/common"
 	"github.com/ungtb10d/gdu/v5/pkg/fs"
 	"github.com/rivo/tview"
 )

@@ -3,7 +3,6 @@ package tui
 import (
 	"time"
 
-	"github.com/ungtb10d/gdu/v5/internal/common"
 )
 
 func (ui *UI) updateProgress() {

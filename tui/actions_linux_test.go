@@ -1,5 +1,4 @@
 //go:build linux
-// +build linux
 
 package tui
 
@@ -7,9 +6,9 @@ import (
 	"bytes"
 	"testing"
 
+	"github.com/stretchr/testify/assert"
 	"github.com/ungtb10d/gdu/v5/internal/testapp"
 	"github.com/ungtb10d/gdu/v5/pkg/device"
-	"github.com/stretchr/testify/assert"
 )
 
 func TestShowDevicesWithError(t *testing.T) {
